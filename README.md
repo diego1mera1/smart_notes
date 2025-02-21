@@ -1,2 +1,2 @@
 # smart_notes
-coloca notas para acordrate de cosas con sistema incluido de etiquetas
+solo necesita un archivo  .json para funcionar no se puede borrar para nada
